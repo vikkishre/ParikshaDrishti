@@ -1,6 +1,7 @@
 ParikshaDrishti is a secure, browser-based exam proctoring tool built to ensure academic integrity during online assessments. Leveraging advanced JavaScript-based monitoring and front-end security techniques, it actively tracks and restricts user behavior to prevent cheating and misconduct.
 
 Key Features:
+
 Anti Tab-Switching Detection: Tracks and flags when participants switch tabs during the exam, preventing unauthorized external browsing.
 
 Right-Click Disabling: Prevents right-click actions to stop participants from copying content or viewing the page source code.
