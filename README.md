@@ -1,1 +1,1 @@
-A Exam Proctol Tool Developed Using HTML CSS and JS
+ParikshaDrishti is a secure, browser-based exam proctoring tool built to ensure academic integrity during online assessments. Leveraging advanced JavaScript-based monitoring and front-end security techniques, it actively tracks and restricts user behavior to prevent cheating and misconduct.
